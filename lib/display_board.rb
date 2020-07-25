@@ -3,5 +3,5 @@ require 'pry'
 # out the current state.
 
 def display_board(board)
-  console.log(board)
+  
 end
