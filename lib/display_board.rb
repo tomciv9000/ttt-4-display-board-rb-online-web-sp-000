@@ -3,5 +3,5 @@ require 'pry'
 # out the current state.
 
 def display_board(board)
-  binding.pry
+  console.log(board)
 end
